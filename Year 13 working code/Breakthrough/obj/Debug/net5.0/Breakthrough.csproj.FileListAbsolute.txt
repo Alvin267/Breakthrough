@@ -1,0 +1,36 @@
+C:\Users\15vbasi\source\repos\Breakthrough\Breakthrough\bin\Debug\net5.0\Breakthrough.exe
+C:\Users\15vbasi\source\repos\Breakthrough\Breakthrough\bin\Debug\net5.0\game1.txt
+C:\Users\15vbasi\source\repos\Breakthrough\Breakthrough\bin\Debug\net5.0\locks.txt
+C:\Users\15vbasi\source\repos\Breakthrough\Breakthrough\bin\Debug\net5.0\Breakthrough.deps.json
+C:\Users\15vbasi\source\repos\Breakthrough\Breakthrough\bin\Debug\net5.0\Breakthrough.runtimeconfig.json
+C:\Users\15vbasi\source\repos\Breakthrough\Breakthrough\bin\Debug\net5.0\Breakthrough.runtimeconfig.dev.json
+C:\Users\15vbasi\source\repos\Breakthrough\Breakthrough\bin\Debug\net5.0\Breakthrough.dll
+C:\Users\15vbasi\source\repos\Breakthrough\Breakthrough\bin\Debug\net5.0\ref\Breakthrough.dll
+C:\Users\15vbasi\source\repos\Breakthrough\Breakthrough\bin\Debug\net5.0\Breakthrough.pdb
+C:\Users\15vbasi\source\repos\Breakthrough\Breakthrough\obj\Debug\net5.0\Breakthrough.csprojAssemblyReference.cache
+C:\Users\15vbasi\source\repos\Breakthrough\Breakthrough\obj\Debug\net5.0\Breakthrough.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15vbasi\source\repos\Breakthrough\Breakthrough\obj\Debug\net5.0\Breakthrough.AssemblyInfoInputs.cache
+C:\Users\15vbasi\source\repos\Breakthrough\Breakthrough\obj\Debug\net5.0\Breakthrough.AssemblyInfo.cs
+C:\Users\15vbasi\source\repos\Breakthrough\Breakthrough\obj\Debug\net5.0\Breakthrough.csproj.CoreCompileInputs.cache
+C:\Users\15vbasi\source\repos\Breakthrough\Breakthrough\obj\Debug\net5.0\Breakthrough.dll
+C:\Users\15vbasi\source\repos\Breakthrough\Breakthrough\obj\Debug\net5.0\ref\Breakthrough.dll
+C:\Users\15vbasi\source\repos\Breakthrough\Breakthrough\obj\Debug\net5.0\Breakthrough.pdb
+C:\Users\15vbasi\source\repos\Breakthrough\Breakthrough\obj\Debug\net5.0\Breakthrough.genruntimeconfig.cache
+E:\Alvin\Y13 Pre-Release Code\Year 13 working code\Breakthrough\bin\Debug\net5.0\Breakthrough.exe
+E:\Alvin\Y13 Pre-Release Code\Year 13 working code\Breakthrough\bin\Debug\net5.0\game1.txt
+E:\Alvin\Y13 Pre-Release Code\Year 13 working code\Breakthrough\bin\Debug\net5.0\locks.txt
+E:\Alvin\Y13 Pre-Release Code\Year 13 working code\Breakthrough\bin\Debug\net5.0\Breakthrough.deps.json
+E:\Alvin\Y13 Pre-Release Code\Year 13 working code\Breakthrough\bin\Debug\net5.0\Breakthrough.runtimeconfig.json
+E:\Alvin\Y13 Pre-Release Code\Year 13 working code\Breakthrough\bin\Debug\net5.0\Breakthrough.runtimeconfig.dev.json
+E:\Alvin\Y13 Pre-Release Code\Year 13 working code\Breakthrough\bin\Debug\net5.0\Breakthrough.dll
+E:\Alvin\Y13 Pre-Release Code\Year 13 working code\Breakthrough\bin\Debug\net5.0\ref\Breakthrough.dll
+E:\Alvin\Y13 Pre-Release Code\Year 13 working code\Breakthrough\bin\Debug\net5.0\Breakthrough.pdb
+E:\Alvin\Y13 Pre-Release Code\Year 13 working code\Breakthrough\obj\Debug\net5.0\Breakthrough.csprojAssemblyReference.cache
+E:\Alvin\Y13 Pre-Release Code\Year 13 working code\Breakthrough\obj\Debug\net5.0\Breakthrough.GeneratedMSBuildEditorConfig.editorconfig
+E:\Alvin\Y13 Pre-Release Code\Year 13 working code\Breakthrough\obj\Debug\net5.0\Breakthrough.AssemblyInfoInputs.cache
+E:\Alvin\Y13 Pre-Release Code\Year 13 working code\Breakthrough\obj\Debug\net5.0\Breakthrough.AssemblyInfo.cs
+E:\Alvin\Y13 Pre-Release Code\Year 13 working code\Breakthrough\obj\Debug\net5.0\Breakthrough.csproj.CoreCompileInputs.cache
+E:\Alvin\Y13 Pre-Release Code\Year 13 working code\Breakthrough\obj\Debug\net5.0\Breakthrough.dll
+E:\Alvin\Y13 Pre-Release Code\Year 13 working code\Breakthrough\obj\Debug\net5.0\ref\Breakthrough.dll
+E:\Alvin\Y13 Pre-Release Code\Year 13 working code\Breakthrough\obj\Debug\net5.0\Breakthrough.pdb
+E:\Alvin\Y13 Pre-Release Code\Year 13 working code\Breakthrough\obj\Debug\net5.0\Breakthrough.genruntimeconfig.cache
