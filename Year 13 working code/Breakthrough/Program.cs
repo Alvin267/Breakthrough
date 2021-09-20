@@ -707,12 +707,42 @@ namespace Breakthrough
 
         public int GetCardNumberAt(int x)
         {
-            return Cards[x].GetCardNumber();
+            int output = 0;
+            bool v = false;
+            do
+            {
+                try
+                {
+                    output =  Cards[x].GetCardNumber();
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("Value must be between 1 and 5");
+                    Console.ReadLine();
+                }
+                v = true;
+            } while (v == false);
+            return output;
         }
 
         public string GetCardDescriptionAt(int x)
         {
-            return Cards[x].GetDescription();
+            string output = Convert.ToString(0);
+            bool v = false;
+            do
+            {
+                try
+                {
+                    output = Cards[x].GetDescription();
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                    Console.ReadLine();
+                }
+                v = true;
+            } while (v == false);
+            return output;
         }
 
         public void AddCard(Card c)

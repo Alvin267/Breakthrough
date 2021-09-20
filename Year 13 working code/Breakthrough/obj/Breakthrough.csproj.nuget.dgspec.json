@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Alvin\\Y13 Pre-Release Code\\Year 13 working code\\Breakthrough\\Breakthrough.csproj": {}
+    "C:\\Users\\Alvin\\OneDrive\\Documents\\GitHub\\Breakthrough\\Year 13 working code\\Breakthrough\\Breakthrough.csproj": {}
   },
   "projects": {
-    "E:\\Alvin\\Y13 Pre-Release Code\\Year 13 working code\\Breakthrough\\Breakthrough.csproj": {
+    "C:\\Users\\Alvin\\OneDrive\\Documents\\GitHub\\Breakthrough\\Year 13 working code\\Breakthrough\\Breakthrough.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Alvin\\Y13 Pre-Release Code\\Year 13 working code\\Breakthrough\\Breakthrough.csproj",
+        "projectUniqueName": "C:\\Users\\Alvin\\OneDrive\\Documents\\GitHub\\Breakthrough\\Year 13 working code\\Breakthrough\\Breakthrough.csproj",
         "projectName": "Breakthrough",
-        "projectPath": "E:\\Alvin\\Y13 Pre-Release Code\\Year 13 working code\\Breakthrough\\Breakthrough.csproj",
+        "projectPath": "C:\\Users\\Alvin\\OneDrive\\Documents\\GitHub\\Breakthrough\\Year 13 working code\\Breakthrough\\Breakthrough.csproj",
         "packagesPath": "C:\\Users\\Alvin\\.nuget\\packages\\",
-        "outputPath": "E:\\Alvin\\Y13 Pre-Release Code\\Year 13 working code\\Breakthrough\\obj\\",
+        "outputPath": "C:\\Users\\Alvin\\OneDrive\\Documents\\GitHub\\Breakthrough\\Year 13 working code\\Breakthrough\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
